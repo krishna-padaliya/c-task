@@ -1,0 +1,3 @@
+Name  = hello
+Age  = 20
+Salary  = 20.00
